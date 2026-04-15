@@ -1,7 +1,7 @@
 # 📥 TRS-TERMUX-SETUP-OS V3.0
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-3.0.0-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Language-Python%20%26%20Cython-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-Termux%20(64--bit)-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Developer-REBEL%20SQUAD-red?style=for-the-badge">
