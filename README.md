@@ -1,12 +1,10 @@
-📥 TRS-TERMUX-SETUP-OS V3.0
-
+# 📥 TRS-TERMUX-SETUP-OS V3.0
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vibe-Kali_Linux-blue%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux">
-  
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Theme-Cyber_Red-red%3Fstyle%3Dfor-the-badge">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Platform-Termux-green%3Fstyle%3Dfor-the-badge%26logo%3Dandroid">
+  <img src="https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-Python%20%26%20Cython-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Termux%20(64--bit)-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Developer-REBEL%20SQUAD-red?style=for-the-badge">
 </p>
 
 ​🔥 Key Features
