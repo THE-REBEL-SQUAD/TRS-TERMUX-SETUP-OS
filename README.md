@@ -1,4 +1,5 @@
-TRS-TERMUX-SETUP-OS V3.0
+📥 TRS-TERMUX-SETUP-OS V3.0
+
 ​<p align="center">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Vibe-Kali_Linux-blue%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Theme-Cyber_Red-red%3Fstyle%3Dfor-the-badge">
@@ -29,18 +30,26 @@ python TRS-OS.py
 🖥️ Menu Options
 ​Run korar por apni nicher option gulo paben:
 ​Default TRS Banner: TRS Squad-er official boro banner set korbe.
+
 ​Custom Banner: Apnar deya callsign ba nam-e boro ASCII banner toiri korbe.
+
 ​🔗 Connect With Us
 ​Amader Squad-er sathe jukto thakte nicher link gulo follow korun:
 
 Platform Link
+
 🔍 Facebook Page [THE REBEL SQUAD](https://www.facebook.com/THE.REBEL.SQUAD.TRS)
+
 💻 GitHub Org [THE-REBEL-SQUAD](https://github.com/THE-REBEL-SQUAD/TRS-TERMUX-SETUP-OS)
+
 ✈️ Telegram Channel [ TRS OFFICIALS TG ](https://t.me/THE_REBEL_SQUAD_TRS)
 
 
 👨‍💻 Credits
 ​Developed and Maintained by: THE REBEL SQUAD (TRS)
+
 ​Special thanks to: Md Ariful Islam Asif (Founder & CEO)
+
 ​[!IMPORTANT]
+
 Disclaimer: Eti sudhu matro educational ebong personalization purpose-e toiri kora hoyeche. Kono boro dhoroner system damage er jonno amra dায়ী noy.
