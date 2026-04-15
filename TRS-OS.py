@@ -1,3 +1,3 @@
-import TRS_OS
+import trs_os
 if __name__ == "__main__":
-    TRS_OS.main()
+    trs_os.main()
