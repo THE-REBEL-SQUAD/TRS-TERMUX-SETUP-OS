@@ -1,6 +1,7 @@
 📥 TRS-TERMUX-SETUP-OS V3.0
 
-​<p align="center">
+
+<p align="center">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Vibe-Kali_Linux-blue%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Theme-Cyber_Red-red%3Fstyle%3Dfor-the-badge">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Platform-Termux-green%3Fstyle%3Dfor-the-badge%26logo%3Dandroid">
